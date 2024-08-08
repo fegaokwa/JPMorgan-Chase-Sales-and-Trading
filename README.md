@@ -1,7 +1,7 @@
 <h1>
 <img src="jp-morgan.svg" width=400 alt="JPMorgan logo"/> 
   
-J.P.Morgan Markets (Sales and Trading) Virtual Internship
+Markets (Sales and Trading) Virtual Internship
 </h1>
 
 
