@@ -1,5 +1,5 @@
 <h1>
-<img src="jp-morgan.svg" width=400 alt="JPMorgan logo"/> 
+<img src="\Resources\jp-morgan.svg" width=400 alt="JPMorgan logo"/> 
   
 Markets (Sales and Trading) Virtual Internship
 </h1>
@@ -37,5 +37,5 @@ As a market maker in this trade, we take into account trade size and direction a
 
 Overall, the virtual internship experience was great as JPMorgan is a big player in the global financial markets, and I got to learn more about JPMorgan, their product offerings, clients, and what a typical day-to-day is like on their Sales & Trading desk. 
 
-<img src="JPMorgan Certificate.png" alt="JPMorgan logo"/> 
+<img src="\Resources\JPMorgan Certificate.png" alt="JPMorgan logo"/> 
 
