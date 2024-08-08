@@ -1,7 +1,7 @@
-<h1>JPMorgan Markets (Sales and Trading) Virtual Internship
-<figure>
-  <img src="Files/charts_accenture.png" alt="JPMorgan logo" /> 
-</figure>
+<h1>
+<img src="jp-morgan.svg" width=400 alt="JPMorgan logo"/> 
+  
+J.P.Morgan Markets (Sales and Trading) Virtual Internship
 </h1>
 
 
@@ -36,4 +36,6 @@ As a market maker in this trade, we take into account trade size and direction a
 <h2>Conclusion</h2>
 
 Overall, the virtual internship experience was great as JPMorgan is a big player in the global financial markets, and I got to learn more about JPMorgan, their product offerings, clients, and what a typical day-to-day is like on their Sales & Trading desk. 
+
+<img src="JPMorgan Certificate.png" alt="JPMorgan logo"/> 
 
